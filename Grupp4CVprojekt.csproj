@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Message\" />
+    <Folder Include="Views\ManageProfile\" />
+    <Folder Include="Views\Project\" />
+  </ItemGroup>
+
 </Project>
